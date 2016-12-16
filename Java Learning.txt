@@ -1,0 +1,21 @@
+CDI vs DI
+
+https://dzone.com/articles/cdi-di-p1
+https://dzone.com/articles/cdi-di-p2
+https://mobiarch.wordpress.com/2013/01/11/spring-di-and-cdi-comparative-study/
+
+http://stackoverflow.com/questions/5973364/is-cdi-a-good-replacement-of-spring
+
+Named vs ManagedBean
+
+
+http://stackoverflow.com/questions/4347374/backing-beans-managedbean-or-cdi-beans-named/4347707#4347707
+http://stackoverflow.com/a/4397444/681350
+http://stackoverflow.com/questions/11986847/java-ee-6-javax-annotation-managedbean-vs-javax-inject-named-vs-javax-faces
+http://stackoverflow.com/questions/18387993/spring-jsf-integration-how-to-inject-a-spring-component-service-in-jsf-managed/18388289#18388289
+
+
+
+http://javabeat.net/jpa-vs-hibernate/
+
+http://www.vogella.com/tutorials/JavaPersistenceAPI/article.html#jpaintro_overview
